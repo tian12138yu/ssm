@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ssm_web:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98a6bf15-deaa-435d-bb32-459ea086356b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_dao/src/main/java/com" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_dao/src/main/java/com/ssm" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_dao/src/main/java/com/ssm/dao" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_dao/src/main/java/com/ssm/dao/IMemberDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_dao/src/main/java/com/ssm/dao/IOrderDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_dao/src/main/java/com/ssm/dao/IPermissionDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_dao/src/main/java/com/ssm/dao/IProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_dao/src/main/java/com/ssm/dao/IRoleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_dao/src/main/java/com/ssm/dao/ITravellerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_dao/src/main/java/com/ssm/dao/IUserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_domain/src/main/java/com" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_domain/src/main/java/com/ssm" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_domain/src/main/java/com/ssm/domain" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_domain/src/main/java/com/ssm/domain/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_domain/src/main/java/com/ssm/domain/Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_domain/src/main/java/com/ssm/domain/Permission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_domain/src/main/java/com/ssm/domain/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_domain/src/main/java/com/ssm/domain/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_domain/src/main/java/com/ssm/domain/Traveller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_domain/src/main/java/com/ssm/domain/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_service/src/main/java/com" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_service/src/main/java/com/ssm" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_service/src/main/java/com/ssm/service" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_service/src/main/java/com/ssm/service/IOrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_service/src/main/java/com/ssm/service/IPermissionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_service/src/main/java/com/ssm/service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_service/src/main/java/com/ssm/service/IRoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_service/src/main/java/com/ssm/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_service/src/main/java/com/ssm/service/impl" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_service/src/main/java/com/ssm/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_service/src/main/java/com/ssm/service/impl/PermissionServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_service/src/main/java/com/ssm/service/impl/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_service/src/main/java/com/ssm/service/impl/RoleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_service/src/main/java/com/ssm/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_utils/src/main/java/com" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_utils/src/main/java/com/ssm" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_utils/src/main/java/com/ssm/utils" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_utils/src/main/java/com/ssm/utils/BCryptPasswordEncoderUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_utils/src/main/java/com/ssm/utils/DateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/java" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/java/com" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/java/com/ssm" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/java/com/ssm/controller" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/java/com/ssm/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/java/com/ssm/controller/PermissionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/java/com/ssm/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/java/com/ssm/controller/RoleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/java/com/ssm/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/resources" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/resources/spring-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/resources/spring-security.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/failer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/orders-list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/orders-show.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/product-add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/product-list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/role-add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/role-list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/user-add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/user-list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/pages/user-show.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_dao/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_dao/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_domain/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_domain/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\MavenRepository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="JDK-1.8" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-DarchetypeCatalog=local" />
+  </component>
+  <component name="ProjectId" id="1XKd5WKSApkwU3WaU2KGCfJKIgw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ssm_web/src/main/webapp/pages" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+    <property name="settings.editor.splitter.proportion" value="0.25484198" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\idea\SSMdemo\ssm_web\src\main\webapp\pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea\SSMdemo\ssm_web\src\main\webapp\pages" />
+      <recent name="D:\idea\SSMdemo\ssm_web\src\main\resources" />
+      <recent name="D:\idea\SSMdemo\ssm_web\src\main\webapp" />
+      <recent name="D:\idea\SSMdemo\ssm_service\src\main\java\com\ssm\service\impl" />
+      <recent name="D:\idea\SSMdemo\ssm_service\src\main\java\com\ssm\service" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.50">
+    <configuration name="BCryptPasswordEncoderUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssm.utils.BCryptPasswordEncoderUtils" />
+      <module name="ssm_utils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ssm.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.50" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.50" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ssm_web:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_SSMdemo" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61454" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ssm_web:war" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BCryptPasswordEncoderUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\lenovo\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98a6bf15-deaa-435d-bb32-459ea086356b" name="Default Changelist" comment="" />
+      <created>1580798536788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580798536788</updated>
+      <workItem from="1580798542420" duration="2502000" />
+      <workItem from="1580804081319" duration="2795000" />
+      <workItem from="1580882996972" duration="3740000" />
+      <workItem from="1580888403989" duration="6396000" />
+      <workItem from="1580895131243" duration="6839000" />
+      <workItem from="1580973466917" duration="4555000" />
+      <workItem from="1580980887903" duration="10754000" />
+      <workItem from="1581058049310" duration="2995000" />
+      <workItem from="1581063375012" duration="6195000" />
+      <workItem from="1581070079170" duration="48000" />
+      <workItem from="1581070796506" duration="2501000" />
+      <workItem from="1581073383094" duration="4668000" />
+      <workItem from="1581078141192" duration="7602000" />
+      <workItem from="1581140036561" duration="8112000" />
+      <workItem from="1581150729782" duration="6429000" />
+      <workItem from="1581225028860" duration="1220000" />
+      <workItem from="1581593063926" duration="92000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1580806801842</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580806801842</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1059" y="202" key="#Project_Structure" timestamp="1581077703443">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1059" y="202" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1581077703443" />
+    <state x="332" y="228" width="1092" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580895371471">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="332" y="228" width="1092" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580895371471" />
+    <state x="1272" y="227" key="#com.intellij.ide.util.MemberChooser" timestamp="1581147994948">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1272" y="227" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1581147994948" />
+    <state x="1197" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580894747954">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1197" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580894747954" />
+    <state x="936" y="82" key="CommitChangelistDialog2" timestamp="1580902057275">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="936" y="82" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1580902057275" />
+    <state x="999" y="282" key="FileChooserDialogImpl" timestamp="1580891402962">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="999" y="282" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1580891402962" />
+    <state width="1293" height="364" key="GridCell.Tab.0.bottom" timestamp="1581167133517">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="364" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581167133517" />
+    <state width="1293" height="364" key="GridCell.Tab.0.center" timestamp="1581167133517">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="364" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581167133517" />
+    <state width="1293" height="364" key="GridCell.Tab.0.left" timestamp="1581167133517">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="364" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581167133517" />
+    <state width="1293" height="364" key="GridCell.Tab.0.right" timestamp="1581167133517">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="364" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581167133517" />
+    <state width="1293" height="364" key="GridCell.Tab.1.bottom" timestamp="1581167133518">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="364" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581167133518" />
+    <state width="1293" height="364" key="GridCell.Tab.1.center" timestamp="1581167133518">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="364" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581167133518" />
+    <state width="1293" height="364" key="GridCell.Tab.1.left" timestamp="1581167133518">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="364" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581167133518" />
+    <state width="1293" height="364" key="GridCell.Tab.1.right" timestamp="1581167133518">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="364" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581167133518" />
+    <state width="1293" height="364" key="GridCell.Tab.2.bottom" timestamp="1581167133518">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="364" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581167133518" />
+    <state width="1293" height="364" key="GridCell.Tab.2.center" timestamp="1581167133517">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="364" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581167133517" />
+    <state width="1293" height="364" key="GridCell.Tab.2.left" timestamp="1581167133517">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="364" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581167133517" />
+    <state width="1293" height="364" key="GridCell.Tab.2.right" timestamp="1581167133517">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="364" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581167133517" />
+    <state width="1293" height="481" key="GridCell.Tab.3.bottom" timestamp="1581154152023">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="481" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581154152023" />
+    <state width="1293" height="481" key="GridCell.Tab.3.center" timestamp="1581154152023">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="481" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581154152023" />
+    <state width="1293" height="481" key="GridCell.Tab.3.left" timestamp="1581154152023">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="481" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581154152023" />
+    <state width="1293" height="481" key="GridCell.Tab.3.right" timestamp="1581154152023">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="481" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581154152023" />
+    <state x="696" y="250" key="RollbackChangesDialog" timestamp="1580991985645">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="696" y="250" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580991985645" />
+    <state x="720" y="183" key="SettingsEditor" timestamp="1580806460767">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="720" y="183" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1580806460767" />
+    <state x="511" y="276" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1581153931141">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="511" y="276" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1080@0.0.1920.1080" timestamp="1581153931141" />
+    <state x="216" y="250" key="new project wizard" timestamp="1581593155369">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="216" y="250" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1581593155369" />
+    <state x="1153" y="171" key="refactoring.ChangeSignatureDialog" timestamp="1580990895721">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1153" y="171" key="refactoring.ChangeSignatureDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580990895721" />
+    <state x="616" y="250" width="672" height="677" key="run.anything.popup" timestamp="1580891427239">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" width="672" height="677" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1580891427239" />
+    <state x="1166" y="388" key="svn.passwordDialog" timestamp="1580806800937">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1166" y="388" key="svn.passwordDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580806800937" />
+    <state x="1143" y="178" key="svn.repositoryBrowser" timestamp="1580806303183">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1143" y="178" key="svn.repositoryBrowser/0.0.1920.1080@0.0.1920.1080" timestamp="1580806303183" />
+    <state x="1165" y="394" key="svn.upgradeDialog" timestamp="1580806304723">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1165" y="394" key="svn.upgradeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580806304723" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ssm_web/src/main/java/com/ssm/controller/RoleController.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

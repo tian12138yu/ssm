@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98a6bf15-deaa-435d-bb32-459ea086356b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SSMdemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/src/main" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/src/main/java" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/src/test" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/src/test/java" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_dao" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_dao/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_dao/src" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_dao/src/main" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_dao/src/main/java" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_dao/src/main/resources" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_dao/src/test" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_dao/src/test/java" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_domain" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_domain/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_domain/src" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_domain/src/main" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_domain/src/main/java" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_domain/src/main/resources" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_domain/src/test" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_domain/src/test/java" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_domain/ssm_domain.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_service" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_service/src" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_service/src/main" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_service/src/main/java" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_service/src/main/resources" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_service/src/test" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_service/src/test/java" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_service/ssm_service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_utils" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_utils/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_utils/src" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_utils/src/main" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_utils/src/main/java" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_utils/src/main/resources" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_utils/src/test" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_utils/src/test/java" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_utils/ssm_utils.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_web" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/WEB-INF" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssm_web/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\MavenRepository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-DarchetypeCatalog=local" />
+  </component>
+  <component name="ProjectId" id="1XKd5WKSApkwU3WaU2KGCfJKIgw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+    <property name="settings.editor.splitter.proportion" value="0.25484198" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\lenovo\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\idea\SSMdemo" />
+          <option name="myCopyRoot" value="D:\idea\SSMdemo" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\idea\SSMdemo" />
+          <option name="myCopyRoot" value="D:\idea\SSMdemo" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98a6bf15-deaa-435d-bb32-459ea086356b" name="Default Changelist" comment="" />
+      <created>1580798536788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580798536788</updated>
+      <workItem from="1580798542420" duration="2502000" />
+      <workItem from="1580804081319" duration="1582000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="936" y="82" key="CommitChangelistDialog2" timestamp="1580806627987">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="936" y="82" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1580806627987" />
+    <state x="999" y="282" key="FileChooserDialogImpl" timestamp="1580806113678">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="999" y="282" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1580806113678" />
+    <state width="1166" height="249" key="GridCell.Tab.0.bottom" timestamp="1580803006756">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1166" height="249" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580803006756" />
+    <state width="1166" height="249" key="GridCell.Tab.0.center" timestamp="1580803006755">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1166" height="249" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580803006755" />
+    <state width="1166" height="249" key="GridCell.Tab.0.left" timestamp="1580803006755">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1166" height="249" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580803006755" />
+    <state width="1166" height="249" key="GridCell.Tab.0.right" timestamp="1580803006756">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1166" height="249" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580803006756" />
+    <state x="720" y="183" key="SettingsEditor" timestamp="1580806460767">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="720" y="183" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1580806460767" />
+    <state x="216" y="250" key="new project wizard" timestamp="1580798792178">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="216" y="250" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1580798792178" />
+    <state x="1166" y="388" key="svn.passwordDialog" timestamp="1580806320167">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1166" y="388" key="svn.passwordDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580806320167" />
+    <state x="1143" y="178" key="svn.repositoryBrowser" timestamp="1580806303183">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1143" y="178" key="svn.repositoryBrowser/0.0.1920.1080@0.0.1920.1080" timestamp="1580806303183" />
+    <state x="1165" y="394" key="svn.upgradeDialog" timestamp="1580806304723">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1165" y="394" key="svn.upgradeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580806304723" />
+  </component>
+</project>
